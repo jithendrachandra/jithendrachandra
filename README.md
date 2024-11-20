@@ -1,15 +1,15 @@
 # Hi 👋, I'm Ganesh Koparde,</h2></br>
 
-  <h3>A dedicated developer with experience in both web and app development, specializing in full-stack projects. I have
+  <h4>A dedicated developer with experience in both web and app development, specializing in full-stack projects. I have
     a strong foundation in problem-solving. I am currently pursuing my 5th semester of BCA at KLE Society's College of
     BCA, Gokak.
 
 ### 🌐 Socials:
 
-    [![Email](https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg)](https://instagram.com/ganesh_mk_247/)
-    [![Instagram](https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg)](https://instagram.com/ganesh_mk_247/)
-    [![LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg)](https://linkedin.com/in//ganesh-koparde)
-    [![Twitter](https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg)](https://linkedin.com/in//Ganesh_Koparde_)
+[![Email](https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg)](mailto:ganeshmk247@gmail.com)
+[![Instagram](https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg)](https://instagram.com/ganesh_mk_247/)
+[![LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg)](https://linkedin.com/in/ganesh-koparde/)
+[![Twitter](https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg)](https://twitter.com/Ganesh_Koparde_)
 
 ### Frontend
 
