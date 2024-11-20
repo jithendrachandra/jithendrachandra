@@ -6,14 +6,13 @@
 
 ### 🌐 Socials:
 
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" width="30" height="30">](mailto:ganeshmk247@gmail.com)
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width="30" height="30">](https://instagram.com/ganesh_mk_247/)
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30">](https://linkedin.com/in/ganesh-koparde/)
-[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="Twitter" width="30" height="30">](https://twitter.com/Ganesh_Koparde_)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" width="40" height="40" style="margin-right: 10px;">](mailto:ganeshmk247@gmail.com)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width="40" height="40" style="margin-right: 10px;">](https://instagram.com/ganesh_mk_247/)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;">](https://linkedin.com/in/ganesh-koparde/)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="Twitter" width="40" height="40" style="margin-right: 10px;">](https://twitter.com/Ganesh_Koparde_)
 
-<br>
-<br>
-<br>
+---
+
 ### Frontend
 
   <div style="display: flex; flex-direction: row; align-items: center;">
@@ -46,8 +45,11 @@
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 10px;" />
   </div>
-  
-  ### Other tools
+
+---
+
+### Other tools
+
   <div style="display: flex; flex-direction: row; align-items: center;">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40" style="margin-right: 10px;" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="Postman" width="40" height="40" style="margin-right: 10px;" />
@@ -61,6 +63,8 @@
 ### 👨‍💻 LeetCode Stats:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ganesh-mk?ext=heatmap)
+
+---
 
   <!-- ### 🔝 Top Contributed Repo
     
