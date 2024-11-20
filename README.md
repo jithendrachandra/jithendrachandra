@@ -6,11 +6,14 @@
 
 ### 🌐 Socials:
 
-[![Email](https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg)](mailto:ganeshmk247@gmail.com)
-[![Instagram](https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg)](https://instagram.com/ganesh_mk_247/)
-[![LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg)](https://linkedin.com/in/ganesh-koparde/)
-[![Twitter](https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg)](https://twitter.com/Ganesh_Koparde_)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" alt="Email" width="30" height="30">](mailto:ganeshmk247@gmail.com)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" alt="Instagram" width="30" height="30">](https://instagram.com/ganesh_mk_247/)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30">](https://linkedin.com/in/ganesh-koparde/)
+[<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" alt="Twitter" width="30" height="30">](https://twitter.com/Ganesh_Koparde_)
 
+<br>
+<br>
+<br>
 ### Frontend
 
   <div style="display: flex; flex-direction: row; align-items: center;">
