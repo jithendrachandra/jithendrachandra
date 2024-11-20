@@ -46,8 +46,6 @@
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 20px;" />
   </div>
 
----
-
 ### Other tools
 
   <div style="display: flex; flex-direction: row; align-items: center;">
@@ -55,6 +53,8 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="Postman" width="40" height="40" style="margin-right: 20px;" />
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git and Github" width="40" height="40" style="margin-right: 20px;" />
   </div>
+
+---
 
 ### 📊 GitHub Stats:
 
