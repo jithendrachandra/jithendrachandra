@@ -1,8 +1,9 @@
-# Hi 👋, I'm Ganesh Koparde,</h2></br>
+# Hi 👋, I'm Ganesh Koparde,</h2>
 
-  <h4>A dedicated developer with experience in both web and app development, specializing in full-stack projects. I have
-    a strong foundation in problem-solving. I am currently pursuing my 5th semester of BCA at KLE Society's College of
-    BCA, Gokak.
+  <h3>Dedicated full-stack web developer currently freelancing, with hands-on experience in web and app development. I have
+completed an internship and worked on multiple full-stack projects, honing my problem-solving skills. As a final-year BCA student,
+
+I am eager to expand my knowledge and contribute to innovative solutions.
 
 ### 🌐 Socials:
 
