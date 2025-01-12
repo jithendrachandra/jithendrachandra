@@ -1,9 +1,7 @@
 # Hi 👋, I'm Ganesh Koparde,</h2>
 
-  <h3>Dedicated full-stack web developer currently freelancing, with hands-on experience in web and app development. I have
-completed an internship and worked on multiple full-stack projects, honing my problem-solving skills. As a final-year BCA student,
-
-I am eager to expand my knowledge and contribute to innovative solutions.
+  <h4>Dedicated full-stack web developer currently freelancing, with hands-on experience in web and app development. I have
+completed an internship and worked on multiple full-stack projects, honing my problem-solving skills. As a final-year BCA student, I am eager to expand my knowledge and contribute to innovative solutions.
 
 ### 🌐 Socials:
 
